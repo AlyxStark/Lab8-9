@@ -6,4 +6,3 @@ exe файл находится по пути Lab7\Release\Lab 7.exe
 ![image](https://user-images.githubusercontent.com/90463760/144754767-1ded2554-ab80-411c-90d3-175d49cc369b.png)
 ![image](https://user-images.githubusercontent.com/90463760/144754752-511a47c3-2001-4eab-a364-a13211acb0af.png)
 Программа выполнена в VS                                                           
-//и я маленько забыл, что надо в главную ветвь делать без лога и сделал с логом (но я создал новую), можно, пожалуйста, не переделывать?
