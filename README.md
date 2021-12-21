@@ -4,5 +4,5 @@
 log файл находится в папке Lab 7
 exe файл находится по пути Lab7\Release\Lab 7.exe
 ![image](https://user-images.githubusercontent.com/90463760/144754767-1ded2554-ab80-411c-90d3-175d49cc369b.png)
-![image](https://user-images.githubusercontent.com/90463760/144754752-511a47c3-2001-4eab-a364-a13211acb0af.png)
+![image](https://user-images.githubusercontent.com/90463760/146996216-2a043a4e-a533-4897-9240-bc3796cdfac4.png)
 Программа выполнена в VS                                                           
