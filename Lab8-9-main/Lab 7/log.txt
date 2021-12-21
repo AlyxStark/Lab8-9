@@ -1,0 +1,10 @@
+The program was launched in 1:51:17
+The program is closed because invalid value entered
+The program was launched in 1:51:22
+The program is closed because invalid value entered
+The program was launched in 1:51:25
+The program has completed point a
+The program has completed point b
+The program has completed point c
+The board is drawn
+The program is closed at1:51:42
